@@ -12,4 +12,4 @@ e01 means episode 1.
 
 Demo:
 
-![Alt Text](https://i.imgur.com/xBBzVGa.gif)
+![Alt Text](https://raw.githubusercontent.com/sd016808/RenameFileTool/master/%E6%89%B9%E6%AC%A1%E6%94%B9%E6%AA%94%E5%90%8D/RenameTool.gif)
