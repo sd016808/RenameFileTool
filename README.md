@@ -2,7 +2,7 @@
 
 This is a tool for rename files, especially for QNAP Video Station.
 
-The file will be renamed to XXX.s01.e01.mp4.
+The file will be renamed to XXX.s01e01.mp4.
 
 XXX is the drama name. 
 
